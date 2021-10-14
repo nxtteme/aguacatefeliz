@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -14,6 +14,3 @@
 </main>
 <footer>
 <p>&#169; María y Diego</p>
-</foother>
-</body>
-</html>
